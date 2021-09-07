@@ -17,9 +17,9 @@ I have implemented a skiplist which is a  probabilistic data structure in order 
 
 ### Model's Representation
 Here is an visual representation of how our skiplist model looks like:
-
-<img src="https://drive.google.com/uc?export=view&id=16fn78ri4UXlBzDSWN8Ly9qOYY_MI2HkB" alt="Figure1" style="display:block;margin-left:auto;margin-right:auto;"> 
-
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=16fn78ri4UXlBzDSWN8Ly9qOYY_MI2HkB" alt="Figure1" > 
+</p>
 
 ---
 ### How to Run the Program
